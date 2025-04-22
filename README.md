@@ -256,8 +256,8 @@ And more to come!
 
 </details>
 
-## Credits to Open Source Software
 
-Skytils would not be possible without other open source projects.
 
-[For more information, click here](https://github.com/Skytils/SkytilsMod/blob/main/OPEN_SOURCE_SOFTWARE.md "Credits")
+
+
+
